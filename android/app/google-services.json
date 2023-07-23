@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705197907985",
+    "firebase_url": "https://aqrab-market.firebaseio.com",
+    "project_id": "aqrab-market",
+    "storage_bucket": "aqrab-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705197907985:android:43d703f130ce6e4d93d1b0",
+        "android_client_info": {
+          "package_name": "technomasr.com.aqrab_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705197907985-p6pcvq36ptjn175ib1tb3erl3phrr4tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVIHrXXUl3U5HIaDsVzfaXANgvMkEO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705197907985-p6pcvq36ptjn175ib1tb3erl3phrr4tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
